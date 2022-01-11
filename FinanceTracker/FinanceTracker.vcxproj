@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="FinanceTracker.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WFEntry.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
